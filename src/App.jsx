@@ -14,6 +14,7 @@ function App() {
         <Portfolio />
         <Timeline />
         <Footer />
+        <Contact />
     </div>
   )
 }

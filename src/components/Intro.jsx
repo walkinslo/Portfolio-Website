@@ -2,16 +2,11 @@ import React from 'react';
 
 function Intro() {
     return (
-        <div className="flex pl-10
-        flex-col text-left pt-10
-        pb-6">
-            <h1 className="text-4xl md:text-7xl 
-            mb-1 md:mb-3 font-bold">Федор</h1>
-            <p className="text-base md:text-xl mb-2
-            font-medium">Intern Software Engineer & 
-            Web Developer</p>
-            <p className="text-sm max-w-xl mb-6
-            font-bold">Я – 17-и летний студент колледжа Кибербезопасности
+        <div className="flex items-center pl-10 flex-col pt-10 pb-6">
+            <h1 className="text-4xl md:text-7xl mb-1 md:mb-3 font-bold">Федор</h1>
+            <p className="text-base md:text-xl mb-2 font-medium">Intern Software Engineer & Web Developer</p>
+            <p className="text-md max-w-xl mb-6
+            font-medium">Я – 17-и летний студент колледжа Кибербезопасности
             и Программирования {' '}
             <a
                 href="https://www.mirea.ru/education/college/about-college"
