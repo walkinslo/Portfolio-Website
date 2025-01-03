@@ -6,7 +6,7 @@ function Intro() {
             <h1 className="text-4xl md:text-7xl mb-1 md:mb-3 font-bold">Федор</h1>
             <p className="text-base md:text-xl mb-2 font-medium">Intern Software Engineer & Web Developer</p>
             <p className="text-md max-w-xl mb-6
-            font-medium">Я – 17-и летний студент колледжа Кибербезопасности
+            font-medium">Я – 19-и летний студент колледжа Кибербезопасности
             и Программирования {' '}
             <a
                 href="https://www.mirea.ru/education/college/about-college"
@@ -17,7 +17,7 @@ function Intro() {
                 rel="noreferer noopener"
             >
                 КПК МИРЭА
-            </a>. Я учучь на 2-м курсе по специальности "Информационные системы
+            </a>. Я учучь на 4-м курсе по специальности "Информационные системы
             и программирование".
             <br /> 
             <br />
